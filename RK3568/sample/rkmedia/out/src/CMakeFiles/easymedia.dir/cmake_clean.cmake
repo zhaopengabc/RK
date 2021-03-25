@@ -1,0 +1,43 @@
+file(REMOVE_RECURSE
+  "CMakeFiles/easymedia.dir/buffer.cc.o"
+  "CMakeFiles/easymedia.dir/codec.cc.o"
+  "CMakeFiles/easymedia.dir/decoder.cc.o"
+  "CMakeFiles/easymedia.dir/demuxer.cc.o"
+  "CMakeFiles/easymedia.dir/encoder.cc.o"
+  "CMakeFiles/easymedia.dir/filter.cc.o"
+  "CMakeFiles/easymedia.dir/flow.cc.o"
+  "CMakeFiles/easymedia.dir/image.cc.o"
+  "CMakeFiles/easymedia.dir/lock.cc.o"
+  "CMakeFiles/easymedia.dir/media_config.cc.o"
+  "CMakeFiles/easymedia.dir/media_type.cc.o"
+  "CMakeFiles/easymedia.dir/message.cc.o"
+  "CMakeFiles/easymedia.dir/muxer.cc.o"
+  "CMakeFiles/easymedia.dir/sound.cc.o"
+  "CMakeFiles/easymedia.dir/stream.cc.o"
+  "CMakeFiles/easymedia.dir/utils.cc.o"
+  "CMakeFiles/easymedia.dir/flow/video_encoder_flow.cc.o"
+  "CMakeFiles/easymedia.dir/flow/audio_encoder_flow.cc.o"
+  "CMakeFiles/easymedia.dir/flow/decoder_flow.cc.o"
+  "CMakeFiles/easymedia.dir/flow/file_flow.cc.o"
+  "CMakeFiles/easymedia.dir/flow/filter_flow.cc.o"
+  "CMakeFiles/easymedia.dir/flow/link_flow.cc.o"
+  "CMakeFiles/easymedia.dir/flow/source_stream_flow.cc.o"
+  "CMakeFiles/easymedia.dir/flow/muxer_flow.cc.o"
+  "CMakeFiles/easymedia.dir/flow/audio_decoder_flow.cc.o"
+  "CMakeFiles/easymedia.dir/flow/output_stream_flow.cc.o"
+  "CMakeFiles/easymedia.dir/stream/file_stream.cc.o"
+  "CMakeFiles/easymedia.dir/rknn/rknn_utils.cc.o"
+  "CMakeFiles/easymedia.dir/c_api/rkmedia_api.cc.o"
+  "CMakeFiles/easymedia.dir/c_api/rkmedia_utils.cc.o"
+  "CMakeFiles/easymedia.dir/c_api/rkmedia_buffer.cc.o"
+  "CMakeFiles/easymedia.dir/c_api/osd/color_table.cc.o"
+  "libeasymedia.pdb"
+  "libeasymedia.so.1.0.1"
+  "libeasymedia.so"
+  "libeasymedia.so.1"
+)
+
+# Per-language clean rules from dependency scanning.
+foreach(lang CXX)
+  include(CMakeFiles/easymedia.dir/cmake_clean_${lang}.cmake OPTIONAL)
+endforeach()
